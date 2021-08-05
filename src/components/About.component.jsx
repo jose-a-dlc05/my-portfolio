@@ -11,9 +11,9 @@ export default function About() {
 						Fullstack Developer.
 					</h1>
 					<p className='mb-8 leading-relaxed'>
-						Growing alongside other developers, product owners and coming from
-						from a business analysis and report writing background, I love
-						generating ideas as a dedicated learner.
+						Growing alongside other developers, product owners and coming from a
+						business analysis and report writing background, I love generating
+						ideas as a dedicated learner.
 						<br />
 						<br />
 						Understanding that aligning business strategy with software and
